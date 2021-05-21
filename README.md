@@ -2,7 +2,7 @@
 
 I'm a 15/yo developer 🧑🏾‍💻 working out of Toronto 🍁 on a mission to solve impossible problems 🌅 for the world. What I'm doing right now to do that:_
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9b24f00e-27fd-48c3-a6b5-d9530c4aec91/IMG-0569_%281%29.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210521%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210521T193859Z&X-Amz-Expires=86400&X-Amz-Signature=5e45d33aeeef468d5f8d927d6fe245f0987afa42dd5fb27c9948e22e5d0263be&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22IMG-0569_%281%29.jpeg%22"> </img>
+<img src="https://cdn-images-1.medium.com/max/1600/1*NIJtc60fLjgQgc7LlQhiKw.jpeg"> </img>
 
 - 🔭 I’m currently working on <strong> computational biology projects with deep learning </strong>
 - 🌱 I’m currently learning <strong> data structures and algorithms for best cs practices </strong>

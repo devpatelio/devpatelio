@@ -10,7 +10,7 @@ I'm a 15/yo developer 🧑🏾‍💻 working out of Toronto 🍁 on a mission t
 - 💬 Ask me about <strong> my most recent project, Bluesky </strong>
 
 - 📫 How to reach me: <a href="hello.devpatel@gmail.com"> email |</a> <a href="https://www.notion.so/devpatelio/Hello-World-This-is-me-Dev-Patel-8fca6655db1f45e09cfcb273da6fcab2"> personal terminal |</a> <a href="https://www.instagram.com/devpatelio/"> instagram |</a> 
-- 😄 Pronouns: He/
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a coffee addict ☕️
 
 

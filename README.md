@@ -94,7 +94,6 @@
       <br />
       <a href="https://github.com/devpatelio/Genetic_Algo_re">Bioinformatics Repo</a>
     </td>
-  
     <td align="center">
       <a href="https://ai.plainenglish.io/we-can-do-better-than-chat-bots-for-mental-health-9979b875e55e">
         <img src="https://miro.medium.com/max/1400/0*TKkE-yC6H2XBw0fP.jpg" width="100px;" alt="Testnet"/>
@@ -102,7 +101,6 @@
       <br />
       <a href="https://github.com/devpatelio/-Bluesky">Project Bluesky</a>
     </td>
-  
     <td align="center">
       <a href="https://github.com/devpatelio/SingleCell-Rnaseq">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzQTzevI2pvfw8_mltwMC_Y6ZcTTOgyxc7_Q&usqp=CAU" width="100px;" alt="Testnet"/>
@@ -110,7 +108,6 @@
       <br />
       <a href="https://github.com/devpatelio/SingleCell-Rnaseq">scRNA-seq for Lymphoma</a>
     </td>
-  
    </tr>
 </table>
 

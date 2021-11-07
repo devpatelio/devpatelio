@@ -6,7 +6,7 @@
 
 <div>
   
-  <h4 style="font-size: 50px;"> Wow </h1>
+  <h4 style="color: red;"> Wow </h1>
   
  </div>
 

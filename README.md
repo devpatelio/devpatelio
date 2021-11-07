@@ -3,7 +3,7 @@
 <img style="width: 209%; border: 2px solid white; padding: 2%:" src="https://cdn-images-1.medium.com/max/2600/1*psfHw4-douzanGEH0SWrzQ.png"> </img>
 
 
-# <span style="color:blue">Dev</span>eloping the future of biotech
+<span style="color:blue">Dev</span> # eloping the future of biotech
 
 I'm a 15/yo developer 🧑🏾‍💻 working out of Toronto 🍁 on a mission to solve impossible problems 🌅 for the world. What I'm doing right now to do that:_
 

@@ -32,7 +32,7 @@
 ! Working with amazing people and institutions while doing it!
 ```
 
-
+### Projects, Experiences, Documents, Profiles, and Terminals! ☕
 
 <table>
   <tr>

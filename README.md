@@ -8,7 +8,7 @@
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dev_elio?color=black&style=for-the-badge" style=margin-left:10px;>  |  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-black?style=for-the-badge&logo=linkedin" style=margin-left:10px;>  |  <img src="https://img.shields.io/badge/Read%20at-LinkedIn-black?style=for-the-badge&logo=medium">  |  <img src="https://img.shields.io/badge/Landing%20-Terminal-black?style=for-the-badge&logo=notion">
 </pre>
 
-<table border="0">
+<table border=0px>
  <tr>
     <td><img style="float: left;" src="https://cdn-images-1.medium.com/max/1600/1*NUBEAcp-1fj9tRwQoCzlXQ.png"></td>
   <td><div width=50%; style="float: left;">

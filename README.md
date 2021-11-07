@@ -10,20 +10,8 @@
 
 <table border="0">
  <tr>
-     <img width=50%; style="float: left;" src="https://cdn-images-1.medium.com/max/1600/1*NUBEAcp-1fj9tRwQoCzlXQ.png">
- </tr>
- <tr>
-    <div width=50%; style="float: right;">
-    <h1 align=right width=50%;> I'm on a journey to redefine what it means to live in our world. </h1>
-    <p align=right width=50%;> Yes, a bit cringe. Or a bit odd. But looking at the way we've progressed as humans, the idea of expansion and unity has always been a motivating factor for all aspects of life, especially innovation and science. </p>
-    </div>
- </tr>
-</table>
-
-<table border="0">
- <tr>
-    <td><img width=50%; style="float: left;" src="https://cdn-images-1.medium.com/max/1600/1*NUBEAcp-1fj9tRwQoCzlXQ.png"></td>
-  <td><div width=50%; style="float: right;">
+    <td><img style="float: left;" src="https://cdn-images-1.medium.com/max/1600/1*NUBEAcp-1fj9tRwQoCzlXQ.png"></td>
+  <td><div width=50%; style="float: left;">
     <h1 align=right width=50%;> I'm on a journey to redefine what it means to live in our world. </h1>
     <p align=right width=50%;> Yes, a bit cringe. Or a bit odd. But looking at the way we've progressed as humans, the idea of expansion and unity has always been a motivating factor for all aspects of life, especially innovation and science. </p>
     </div></td>

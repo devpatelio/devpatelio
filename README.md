@@ -4,7 +4,7 @@
 <img style="width: 209%; border: 2px solid white; padding: 2%:" src="https://cdn-images-1.medium.com/max/2600/1*psfHw4-douzanGEH0SWrzQ.png"> </img>
 </center>
 
-# Dev Patel
+<h1>Dev Patel</h1> ![Twitter Follow](https://img.shields.io/twitter/follow/dev_elio?color=black&style=for-the-badge)
 
 ```diff
 - Developing the future of biotech through engineering and data

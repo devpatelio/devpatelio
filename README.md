@@ -1,6 +1,6 @@
 
 
-<img style="width: 99%" src="https://cdn-images-1.medium.com/max/2600/1*c0GBFIjpHbq0kqs5NeHoZg.png"> </img>
+<img style="width: 209%" src="https://cdn-images-1.medium.com/max/2600/1*c0GBFIjpHbq0kqs5NeHoZg.png"> </img>
 
 
 ### This is me. ML Developer 🧠 | Intelligence and Philosophy 🤔 | Synthetic Bio and Neuroscience|  👋

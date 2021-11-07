@@ -5,10 +5,7 @@
 </center>
 
 <pre align="center">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dev_elio?color=black&style=for-the-badge" style=margin-left:10px;>
-<img src="https://img.shields.io/badge/Connect%20on-LinkedIn-black?style=for-the-badge&logo=linkedin" style=margin-left:10px;>
-<img src="https://img.shields.io/badge/Read%20at-LinkedIn-black?style=for-the-badge&logo=medium">
-<img src="https://img.shields.io/badge/Landing%20-Terminal-black?style=for-the-badge&logo=notion">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dev_elio?color=black&style=for-the-badge" style=margin-left:10px;>. <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-black?style=for-the-badge&logo=linkedin" style=margin-left:10px;>. <img src="https://img.shields.io/badge/Read%20at-LinkedIn-black?style=for-the-badge&logo=medium">. <img src="https://img.shields.io/badge/Landing%20-Terminal-black?style=for-the-badge&logo=notion">
 </pre>
 
 ```diff

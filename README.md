@@ -80,6 +80,23 @@
       <br />
       <a href="https://github.com/adityamittal13/Alzheimer_Research">Neurodegenerative Disorder Target Discovery</a>
     </td>
+  
+   <td align="center">
+      <a href="https://github.com/devpatelio/Mechanism-of-Action">
+        <img src="https://scx2.b-cdn.net/gfx/news/hires/2017/howreceptors.jpg" width="100px;" alt="Testnet"/>
+      </a>
+      <br />
+      <a href="https://github.com/devpatelio/Mechanism-of-Action">Mechanism of Action Classification</a>
+    </td>
+  
+     <td align="center">
+      <a href="https://devpatelio.notion.site/Computational-Biology-Notes-80b0c79f684241db9aea03c121e0860d">
+        <img src="https://cdn-images-1.medium.com/max/1600/1*2GCjqUG2Iq6QkecLvxk7Ng.png" width="100px;" alt="Testnet"/>
+      </a>
+      <br />
+      <a href="https://github.com/devpatelio/Genetic_Algo_re">Bioinformatics Repo</a>
+    </td>
+  
       </tr>
 </table>
 

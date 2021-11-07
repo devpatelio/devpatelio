@@ -5,5 +5,7 @@
 </center>
 
 ```diff 
-- Developing the future of biotech -| + Leveraging machine learning to interpret biological data +| ! Working with amazing people while doing it !
+- Developing the future of biotech
++ Leveraging machine learning to interpret biological data
+! Working with amazing people while doing it !
 ```

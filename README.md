@@ -55,7 +55,7 @@
         <img src="https://avatars.githubusercontent.com/u/66800070?s=200&v=4" width="100px;" alt="BBT"/>
       </a>
       <br />
-      <a href="https://github.com/BuildingBlocksTechnologiesLLC">Ce Gao</a>
+      <a href="https://github.com/BuildingBlocksTechnologiesLLC">Building Blocks Technologies Intern</a>
     </td>
   </tr>
 </table>

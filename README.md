@@ -57,6 +57,13 @@
       <br />
       <a href="https://github.com/BuildingBlocksTechnologiesLLC">Building Blocks Technologies Intern</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/devpatelio/blockchainstuff/">
+        <img src="https://images.ctfassets.net/v44fuld738we/2ISfRmsrwfmMnz1it1Vkt2/af5ecd50a75293148dcc93d870672697/coin2.png?w=1920&q=75" width="100px;" alt="Testnet"/>
+      </a>
+      <br />
+      <a href="https://github.com/devpatelio/blockchainstuff">CPU Testnet Mining</a>
+    </td>
   </tr>
 </table>
 

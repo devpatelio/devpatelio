@@ -12,9 +12,10 @@
  <tr style="border: none;" >
     <td width=50% style="border: none;"><img style="float: left;" src="https://cdn-images-1.medium.com/max/1600/1*NUBEAcp-1fj9tRwQoCzlXQ.png"></td>
   <td width=50% style="border: 0px;"> <div width=50%; style="float: left; border: none;">
-    <h1 align=left width=50%;> I'm on a journey to redefine what it means to live in our world. </h1>
-    <p align=left width=50%;> Yes, a bit cringe. Or a bit odd. But looking at the way we've progressed as humans, the idea of expansion and unity has always been a motivating factor for all aspects of life, especially innovation and science. <br> <br> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. <br> <br> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. <br><br>
-     
+    <h1 align=left width=50%;> I'm on a journey to redefine what it means to be human. </h1>
+    <p align=left width=50%;> If I could sum up my love for biotech, it would be considered almost poetic with a bit of philosophical substance. I mean, think about it. Humanity’s biggest questions about the nature of life, our origin, and the meaning of humanity is all fundamentally a derivation of some key biological concept. I'm looking to answer these questions by working on key initiatives that <strong>bridge platforms and ecosystems</strong> with biological engineering. <br> <br> In doing so, I hope to connect with more people on my journey who are passionate about the work I do. Right now, I'm working on 2 main ideas: 1) an siRNA rapid engineering system that has the ability to expedite target validation & 2) an mRNA folding optimizer using reinforcement learning to increase the immunogenicity of traditional therapeutics. <br><br> I love music 🎵, learning about emerging tech 🛠️ [curious about web3 and neurogenetics], and going for long bike rides 🚲! 
+
+   <h5> Let's do something <i> de novo </i> </h5>
    <pre>  🔬 Biotech |  🤖 Machine Learning  |  🧰 Building </pre>
 
 </p>
@@ -23,6 +24,7 @@
 
 </table>
 
+<img src="https://cdn-images-1.medium.com/max/1600/1*-ZthpnyD50jepPBW0wBRDw.png">
 
 
 

@@ -11,9 +11,9 @@
 <table style="border: none;">
  <tr style="border: none;" >
     <td width=50% style="border: none;"><img style="float: left;" src="https://cdn-images-1.medium.com/max/1600/1*NUBEAcp-1fj9tRwQoCzlXQ.png"></td>
-  <td width=50% style="border: none;"> <div width=50%; style="float: left;">
+  <td width=50% style="border: 0px;"> <div width=50%; style="float: left; border: none;">
     <h1 align=left width=50%;> I'm on a journey to redefine what it means to live in our world. </h1>
-    <p align=left width=50%;> Yes, a bit cringe. Or a bit odd. But looking at the way we've progressed as humans, the idea of expansion and unity has always been a motivating factor for all aspects of life, especially innovation and science. <br> <br> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. <br> <br> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    <p align=left width=50%;> Yes, a bit cringe. Or a bit odd. But looking at the way we've progressed as humans, the idea of expansion and unity has always been a motivating factor for all aspects of life, especially innovation and science. <br> <br> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. <br> <br> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. <br><br>
      
    <pre>  🔬 Biotech |  🤖 Machine Learning  |  🧰 Building </pre>
 

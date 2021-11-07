@@ -1,6 +1,6 @@
 # Hello World! This is me, Dev Patel.
 
-![Hello%20World!%20This%20is%20me,%20Dev%20Patel%20944d136a283d4cb588d40599746c1ace/IMG-0569_(1).jpeg](Hello%20World!%20This%20is%20me,%20Dev%20Patel%20944d136a283d4cb588d40599746c1ace/IMG-0569_(1).jpeg)
+![](https://cdn-images-1.medium.com/max/1600/1*fBNc1V8Y-ToYMzsVIv1gTA.jpeg)
 
 > Hey 👋; My name is **Dev Patel** and I'm a Machine Learning Developer Specializing in Deep Learning and Bioninformatics. Previous experience includes project management, blockchain engineer, and web development.
 > 

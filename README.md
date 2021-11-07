@@ -5,9 +5,12 @@
 </center>
 
   
-```diff 
+```{r}
+
+diff
 options(width = 300)
 matrix(runif(100), ncol = 20)
+
 - Developing the future of biotech
 + Leveraging machine learning to interpret biological data
 ! Working with amazing people while doing it !

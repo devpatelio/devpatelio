@@ -22,12 +22,13 @@
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
+    <td><img width=50%; style="float: left;" src="https://cdn-images-1.medium.com/max/1600/1*NUBEAcp-1fj9tRwQoCzlXQ.png"></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td><div width=50%; style="float: right;">
+    <h1 align=right width=50%;> I'm on a journey to redefine what it means to live in our world. </h1>
+    <p align=right width=50%;> Yes, a bit cringe. Or a bit odd. But looking at the way we've progressed as humans, the idea of expansion and unity has always been a motivating factor for all aspects of life, especially innovation and science. </p>
+    </div></td>
  </tr>
 </table>
 

@@ -8,7 +8,7 @@
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dev_elio?color=black&style=for-the-badge" style=margin-left:10px;>  |  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-black?style=for-the-badge&logo=linkedin" style=margin-left:10px;>  |  <img src="https://img.shields.io/badge/Read%20at-LinkedIn-black?style=for-the-badge&logo=medium">  |  <img src="https://img.shields.io/badge/Landing%20-Terminal-black?style=for-the-badge&logo=notion">
 </pre>
 
-<img src="https://lh3.googleusercontent.com/pw/AM-JKLXdcWH5Qoy0wUcAVexk5YsasDHmLlTYCwaiSVBT7vPs40ypxWOmFNWsETHlBK2LHW3Mun5RFsigYOcoSl7QDRltKcRp301-cPOU9Df9QMkbJWIAbDf1gPBcLyvRKYXhAe2n-SUwBoZWgqPjZEmRJHIkag=w1520-h2026-no?authuser=0">
+<img width=10%; src="https://lh3.googleusercontent.com/pw/AM-JKLXdcWH5Qoy0wUcAVexk5YsasDHmLlTYCwaiSVBT7vPs40ypxWOmFNWsETHlBK2LHW3Mun5RFsigYOcoSl7QDRltKcRp301-cPOU9Df9QMkbJWIAbDf1gPBcLyvRKYXhAe2n-SUwBoZWgqPjZEmRJHIkag=w1520-h2026-no?authuser=0">
 
 ```diff
 - Developing the future of biotech through engineering and data

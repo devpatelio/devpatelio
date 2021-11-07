@@ -64,6 +64,22 @@
       <br />
       <a href="https://github.com/devpatelio/blockchainstuff">CPU Testnet Mining</a>
     </td>
+    <td align="center">
+      <a href="https://docs.google.com/presentation/d/1NF2CtEXjQPpBEEzVcwqqZsIYp2FUaZKMTQsAJm3zno4/edit?usp=sharing">
+        <img src="https://insightaas.com/wp-content/uploads/2017/03/dreamstime_s_16098813-tumor-suppressing-protein-binding-to-DNA.jpg" width="100px;" alt="Testnet"/>
+      </a>
+      <br />
+      <a href="https://docs.google.com/presentation/d/1NF2CtEXjQPpBEEzVcwqqZsIYp2FUaZKMTQsAJm3zno4/edit?usp=sharing">Clinical Trial Optimization Proposal</a>
+    </td>
+   
+    <td align="center">
+      <a href="https://docs.google.com/presentation/d/1bJVOdD1ZaLI5V5Dqx4apFjR4uS8y5oR4j-bTI6GFkV0/edit?usp=sharing">
+        <img src="https://media.npr.org/assets/img/2016/11/11/mini-brain-2-02b1793ad8e50676ad501c60b3489d5603ca5be7.jpg" width="100px;" alt="Testnet"/>
+      </a>
+      <br />
+      <a href="https://github.com/adityamittal13/Alzheimer_Research">Neurodegenerative Disorder Target Discovery</a>
+    </td>
+   
   </tr>
 </table>
 

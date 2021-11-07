@@ -9,8 +9,10 @@
 </pre>
 
 <img width=50%; src="https://cdn-images-1.medium.com/max/1600/1*NUBEAcp-1fj9tRwQoCzlXQ.png">
+<div align=right>
 <h1 align=right> I'm on a journey to redefine what it means to live in our world. </h1>
-<p> Yes, a bit cringe. Or a bit odd. But looking at the way we've progressed as humans, the idea of expansion and unity has always been a motivating factor for all aspects of life, especially innovation and science. </p>
+<p align=right> Yes, a bit cringe. Or a bit odd. But looking at the way we've progressed as humans, the idea of expansion and unity has always been a motivating factor for all aspects of life, especially innovation and science. </p>
+</div>
 
 ```diff
 - Developing the future of biotech through engineering and data

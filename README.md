@@ -37,18 +37,18 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/wizardforcel">
-        <img src="https://avatars2.githubusercontent.com/u/5080126" width="100px;" alt="wizardforcel"/>
+      <a href="https://github.com/devpatelio/mRNA-Fold">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnizj_s-Tv6XBx63RXFJyP8i41THznUirO667RgWtmNoUACC-nCixB1BBWPhL813qSWOI&usqp=CAU" width="100px;" alt="mRNA"/>
       </a>
       <br />
-      <a href="https://github.com/wizardforcel">布客飞龙</a>
+      <a href="https://github.com/devpatelio/mRNA-Fold">mRNA Alternative Conformations</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Magicianred">
-        <img src="https://avatars2.githubusercontent.com/u/4624113" width="100px;" alt="Magicianred"/>
+      <a href="https://www.youtube.com/watch?v=uba5R0FHmeM">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/BenchSci_Logo.png" width="100px;" alt="BenchSci"/>
       </a>
       <br />
-      <a href="https://github.com/Magicianred">Simone Paolucci</a>
+      <a href="https://devpatelio.notion.site/BenchSci-Clinical-Trials-Work-9a855cad1e894d6a82353e04ac31d9e1">BenchSci Intern</a>
     </td>
     <td align="center">
       <a href="https://github.com/gaocegege">

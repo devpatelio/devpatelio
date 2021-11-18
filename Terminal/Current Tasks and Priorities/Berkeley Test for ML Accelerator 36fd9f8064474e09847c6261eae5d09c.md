@@ -1,8 +1,8 @@
 # Berkeley Test for ML Accelerator
 
 Bucket: Extracurriculars
-Checkbox: No
+Checkbox: Yes
 Importance: Important
 Property: November 16, 2021
-Status: Not Started
+Status: Done
 Urgency: Not Urgent

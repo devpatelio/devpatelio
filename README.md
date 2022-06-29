@@ -5,7 +5,7 @@
 </center>
 
 <pre align="center">
-<img href="https://twitter.com/dev_elio" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dev_elio?color=black&style=for-the-badge" style=margin-left:10px;>  |  <img href="https://www.linkedin.com/in/dev-patel-25456219a/" src="https://img.shields.io/badge/Connect%20on-LinkedIn-black?style=for-the-badge&logo=linkedin" style=margin-left:10px;>  |  <img href = "https://hello-devpatel.medium.com/" src="https://img.shields.io/badge/Read%20at-Medium-black?style=for-the-badge&logo=medium">  |  <img href="https://devpatelio.notion.site/Hello-World-This-is-me-Dev-Patel-8fca6655db1f45e09cfcb273da6fcab2" src="https://img.shields.io/badge/Landing%20-Terminal-black?style=for-the-badge&logo=notion">
+<img href="https://twitter.com/devpatelio" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dev_elio?color=black&style=for-the-badge" style=margin-left:10px;>  |  <img href="https://www.linkedin.com/in/dev-patel-25456219a/" src="https://img.shields.io/badge/Connect%20on-LinkedIn-black?style=for-the-badge&logo=linkedin" style=margin-left:10px;>  |  <img href = "https://hello-devpatel.medium.com/" src="https://img.shields.io/badge/Read%20at-Medium-black?style=for-the-badge&logo=medium">  |  <img href="https://devpatelio.notion.site/Hello-World-This-is-me-Dev-Patel-8fca6655db1f45e09cfcb273da6fcab2" src="https://img.shields.io/badge/Landing%20-Terminal-black?style=for-the-badge&logo=notion">
 </pre>
 
 <table style="border: none;">

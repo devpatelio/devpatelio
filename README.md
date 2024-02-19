@@ -1,12 +1,6 @@
 
 
 
-```diff
-- Developing the future of biotech through engineering and data
-+ Leveraging machine learning to interpret complex systems 
-! Working with amazing people and institutions while doing it!
-```
-
 ### Projects, Experiences, Documents, Profiles, and Terminals! ☕
 
 <table>
